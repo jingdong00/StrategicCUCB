@@ -22,6 +22,6 @@ python3 strategy.py
 
 ## Contributions and Contact
 
-This repo is built on code from (https://github.com/lilianweng/multi-armed-bandit). 
-The experiment is mainly done by Ke Li and some parts done by Jing Dong.
+This repo is built on code from (https://github.com/lilianweng/multi-armed-bandit). \
+The experiment is mainly done by Ke Li and some parts done by Jing Dong. \
 Please contact keli@link.cuhk.edu.cn or jindong@umich.edu if you have any question regarding this repo. 
